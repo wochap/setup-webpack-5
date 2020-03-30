@@ -1,3 +1,4 @@
+import './index.css'
 import BAR from "./module-b"
 
 const a = 123
